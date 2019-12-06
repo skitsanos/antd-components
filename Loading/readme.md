@@ -18,7 +18,7 @@ export default {
         webpackChunkName: true,
         loadingComponent: './components/Loading/index.js',
       },
-      title: 'CoffeeLMS (v3)',
+      title: 'Demo app',
       dll: false,
 
       routes: {
